@@ -21,9 +21,9 @@ S21average=""
 # whenever the computer sees our variable word it will
 # alway use the data inside. 
 
-
-
-
+appleStoreCount = 80
+mathStudents= 50
+travelerMoney= true
 
 
 
