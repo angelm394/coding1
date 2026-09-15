@@ -1,0 +1,3 @@
+whole numbers is can be letters, numbers, and symbols
+floats decima numbers
+string text and true/fals statements
