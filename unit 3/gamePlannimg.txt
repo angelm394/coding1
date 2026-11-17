@@ -1,0 +1,2 @@
+in 2-3 sentences, describe your 2D game idea. Breifly describe how your game is played?
+What is your games primary game loop.
